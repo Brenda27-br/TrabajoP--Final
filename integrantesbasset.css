@@ -1,0 +1,19 @@
+
+.integrante{
+    font-style: bold;
+    font-size: larger;
+}
+
+.puesto{
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+table{
+    display: flex; justify-content: center
+}
+
+.body{
+    background-image:url(imagenes/fondo\ pagina.avif);
+}

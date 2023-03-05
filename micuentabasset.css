@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Mulish:wght@300&family=Noto+Sans:wght@100&family=Open+Sans:ital,wght@1,300&family=Playfair+Display:wght@500&family=Raleway:wght@300&display=swap');
+
+form{
+    width: 450px;
+    height: auto;
+    border-width: 2px;
+    border-style:hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style:solid;
+    
+
+}
+
+
+
+.form-control{
+    
+    padding-bottom: 30px;
+    margin: 5px 0px;
+    padding: 5px;
+    
+    
+}
+
+#formulario{
+    margin: 0;
+    display: flex ; justify-content: center;
+    
+    
+}
+
+h1{
+    font-family:'Noto Sans', sans-serif;
+
+}
+
+.body{
+    background-image:url(imagenes/fondo\ pagina.avif)
+}
